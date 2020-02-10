@@ -13,6 +13,7 @@ nav {
   height: 40px;
   justify-content: space-evenly;
 }
+
 .navbar div {
   border: 1px solid grey;
   width: 120px;
@@ -26,8 +27,14 @@ nav {
 nav a {
   text-decoration: none;
   color: rgb(225, 225, 225);
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family:
+    "Lucida Sans",
+    "Lucida Sans Regular",
+    "Lucida Grande",
+    "Lucida Sans Unicode",
+    Geneva,
+    Verdana,
+    sans-serif;
   font-size: 15px;
 }
 
@@ -36,9 +43,9 @@ nav a {
   padding-left: 10px;
   padding-top: 2px;
 }
+
 input {
   border-radius: 9px;
-
   height: 20px;
   font-size: 20px;
   width: 100px;
@@ -122,16 +129,28 @@ footer img {
 }
 
 footer p {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family:
+    "Lucida Sans",
+    "Lucida Sans Regular",
+    "Lucida Grande",
+    "Lucida Sans Unicode",
+    Geneva,
+    Verdana,
+    sans-serif;
   font-size: 10px;
   font-weight: 300;
   color: rgb(110, 110, 110);
 }
 
 footer a {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family:
+    "Lucida Sans",
+    "Lucida Sans Regular",
+    "Lucida Grande",
+    "Lucida Sans Unicode",
+    Geneva,
+    Verdana,
+    sans-serif;
   font-size: 10px;
   font-weight: 400;
   text-decoration: none;
