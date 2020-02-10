@@ -57,7 +57,7 @@ input {
 header {
   background-image: url("images/your_verse_hero_2x.jpg");
   height: 85vh;
-  width:1440px;
+  width:100vw;
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -143,6 +143,7 @@ footer p {
   font-size: 10px;
   font-weight: 300;
   color: rgb(110, 110, 110);
+  line-height: 15px;
 }
 
 footer a {
